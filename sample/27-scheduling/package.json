@@ -19,9 +19,9 @@
     "test:e2e": "echo 'No e2e tests implemented yet.'"
   },
   "dependencies": {
-    "@nestjs/common": "9.0.1",
-    "@nestjs/core": "9.0.1",
-    "@nestjs/platform-express": "9.0.1",
+    "@nestjs/common": "9.4.3",
+    "@nestjs/core": "9.4.3",
+    "@nestjs/platform-express": "9.4.3",
     "@nestjs/schedule": "2.1.0",
     "dotenv": "16.0.1",
     "reflect-metadata": "0.1.13",
