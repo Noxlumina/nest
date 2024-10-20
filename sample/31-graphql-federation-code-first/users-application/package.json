@@ -27,7 +27,7 @@
     "@nestjs/common": "9.0.1",
     "@nestjs/core": "9.0.1",
     "@nestjs/graphql": "10.0.19",
-    "@nestjs/platform-express": "9.0.1",
+    "@nestjs/platform-express": "10.4.5",
     "apollo-server-express": "3.9.0",
     "graphql": "16.5.0",
     "graphql-tools": "8.3.0",
