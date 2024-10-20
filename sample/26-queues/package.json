@@ -22,7 +22,7 @@
     "@nestjs/bull": "0.6.0",
     "@nestjs/common": "9.0.1",
     "@nestjs/core": "9.0.1",
-    "@nestjs/platform-express": "9.0.1",
+    "@nestjs/platform-express": "10.4.5",
     "bull": "4.8.4",
     "dotenv": "16.0.1",
     "reflect-metadata": "0.1.13",
